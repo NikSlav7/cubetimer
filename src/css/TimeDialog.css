@@ -1,0 +1,88 @@
+.time-dialog-background{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background-color: rgba(0,0,0,0.4);
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.time-dialog-container{
+    width: 30vw;
+    background-color: white;
+    border-radius: 2vw;
+    padding: 2vw;
+    aspect-ratio: 2/1;
+    display: flex;
+    flex-direction: column;
+}
+.time-dialog-scramble-container{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    line-break: anywhere;
+}
+.time-dialog-scramble{
+    font-weight: 400;
+    font-size: 1.15em;
+}
+.time-dialog-time{
+    font-size: 3.3em;
+}
+.time-dialog-time-container{
+    flex: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.time-dialog-buttons-container{
+    flex: 2;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.time-dialog-other-buttons-container{
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.time-dialog-penalties-container{
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+}
+.time-dialog-other-buttons-container button{
+    flex: 1;
+    height: 60%;
+    border: none;
+    border-radius: 0.25vw;
+    margin-right: 3%;
+    font-weight: 500;
+}
+.time-dialog-save-button{
+    background-color: aqua;
+}
+.time-dialog-cancel-button{
+    background-color: red;
+}
+.time-dialog-other-buttons-container button:hover{
+    cursor: pointer;
+}
+.time-dialog-penalty{
+    flex: 1;
+    font-style: italic;
+}
+.time-dialog-chosen-penalty{
+    font-weight: bold;
+}
+.time-dialog-penalty:hover{
+    cursor: pointer;
+}

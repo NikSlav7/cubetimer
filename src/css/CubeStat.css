@@ -1,0 +1,27 @@
+.cube-stat-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.cube-stat-name-container{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 5%;
+}
+.cube-stat-name{
+    font-size: 1.15em;
+}
+.cube-stat-value-container{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 1%;
+}
+.cube-stat-value{
+    font-size: 1.25em;
+    font-weight: 500;
+}

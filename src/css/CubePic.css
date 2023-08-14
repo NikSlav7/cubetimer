@@ -1,0 +1,15 @@
+.cubepic-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cubepic{
+    height: 90%;
+    aspect-ratio: 4/3;
+    display: grid;
+    column-gap: 1%;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 33%);
+}

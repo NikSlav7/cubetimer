@@ -1,0 +1,24 @@
+.setting-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+.setting-name-container{
+    flex: 1;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+.setting-name{
+    font-size: 1.15em;
+    margin: 1%;
+}
+.setting-options-container{
+    flex: 1;
+    display: grid;
+    padding: 1%;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 1%;
+}

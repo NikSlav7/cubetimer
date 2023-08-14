@@ -1,0 +1,8 @@
+.cubepiece-container{
+    height: 100%;
+    aspect-ratio: 1/1;
+    background-color: white;
+    border-width: 1%;
+    border: solid;
+    border-color: black;
+}

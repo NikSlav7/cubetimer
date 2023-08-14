@@ -1,0 +1,16 @@
+.timer-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.timer-time{
+    font-size: 5.5em;
+    margin: 0;
+    font-weight: 400;
+    letter-spacing: 0.35vw;
+}
+.timer-green{
+    color: green;
+}
