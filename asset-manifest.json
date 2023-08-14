@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cubetimer/static/css/main.3fd83fe5.css",
-    "main.js": "/cubetimer/static/js/main.5d1f1201.js",
+    "main.js": "/cubetimer/static/js/main.288b2157.js",
     "static/js/787.cec40554.chunk.js": "/cubetimer/static/js/787.cec40554.chunk.js",
     "static/media/logo.svg": "/cubetimer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cubetimer/index.html",
     "main.3fd83fe5.css.map": "/cubetimer/static/css/main.3fd83fe5.css.map",
-    "main.5d1f1201.js.map": "/cubetimer/static/js/main.5d1f1201.js.map",
+    "main.288b2157.js.map": "/cubetimer/static/js/main.288b2157.js.map",
     "787.cec40554.chunk.js.map": "/cubetimer/static/js/787.cec40554.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fd83fe5.css",
-    "static/js/main.5d1f1201.js"
+    "static/js/main.288b2157.js"
   ]
 }
