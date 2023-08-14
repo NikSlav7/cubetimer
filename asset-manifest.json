@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fd83fe5.css",
-    "main.js": "/static/js/main.26cb438e.js",
-    "static/js/787.cec40554.chunk.js": "/static/js/787.cec40554.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.3fd83fe5.css.map": "/static/css/main.3fd83fe5.css.map",
-    "main.26cb438e.js.map": "/static/js/main.26cb438e.js.map",
-    "787.cec40554.chunk.js.map": "/static/js/787.cec40554.chunk.js.map"
+    "main.css": "/cubetimer/static/css/main.3fd83fe5.css",
+    "main.js": "/cubetimer/static/js/main.5d1f1201.js",
+    "static/js/787.cec40554.chunk.js": "/cubetimer/static/js/787.cec40554.chunk.js",
+    "static/media/logo.svg": "/cubetimer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cubetimer/index.html",
+    "main.3fd83fe5.css.map": "/cubetimer/static/css/main.3fd83fe5.css.map",
+    "main.5d1f1201.js.map": "/cubetimer/static/js/main.5d1f1201.js.map",
+    "787.cec40554.chunk.js.map": "/cubetimer/static/js/787.cec40554.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fd83fe5.css",
-    "static/js/main.26cb438e.js"
+    "static/js/main.5d1f1201.js"
   ]
 }
